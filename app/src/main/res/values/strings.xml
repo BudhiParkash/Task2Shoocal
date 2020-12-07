@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shoocal_Task_2</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="blood_groups">blood Groups</string>
+</resources>
